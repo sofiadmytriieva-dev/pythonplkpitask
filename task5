@@ -1,3 +1,0 @@
-num = int(input("Число: "))
-if num > 1:
-    for i in range()
